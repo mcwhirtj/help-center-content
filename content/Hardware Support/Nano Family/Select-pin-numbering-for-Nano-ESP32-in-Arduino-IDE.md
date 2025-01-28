@@ -13,7 +13,7 @@ Regardless of which pin numbering you use, you can use the pin labels to refer t
 
 * `pinMode(2, OUTPUT)` (By Arduino pin)
 * `pinMode(5, OUTPUT)` (By GPIO number)
-* `pinMode(D0, OUTPUT)` (By Arduino pin **or** By GPIO number)
+* `pinMode(D2, OUTPUT)` (By Arduino pin **or** By GPIO number)
 
 For a complete overview, see the table below.
 
